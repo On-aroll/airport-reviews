@@ -1,0 +1,10 @@
+# 本地草稿与历史版本，不对外发布
+_archive/
+
+# 编辑器与系统杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
