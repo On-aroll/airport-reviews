@@ -1,5 +1,20 @@
 # 机场测评合集
 
+<div align="center">
+
+**自费试用 · 面向学生党的机场横向对比与单站评测**
+
+### [在线阅读（网页版）](https://on-aroll.github.io/airport-reviews/)
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-2E6E8E)](LICENSE)
+[![文章 9 篇](https://img.shields.io/badge/文章-9%20篇-E8612C)](#系列)
+
+</div>
+
+> 含邀请返佣链接（文末统一披露）；速度结论只给测法、不给数字；请在符合所在地法律法规的前提下使用相关服务。
+
+---
+
 自费试用、面向学生党的机场（网络服务）横向对比与单站评测。**含邀请返佣链接，建议自行比价。**
 
 ## 系列
