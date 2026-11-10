@@ -36,8 +36,8 @@
 | 06 | [其余八家](airport-reviews/2026-09-学生党机场对比/06-其余八家.md) | **66** · 精灵学院（全表第一）+ 七家备选 |
 | 07 | [迷雾通](airport-reviews/2026-09-学生党机场对比/07-迷雾通.md) | 另册 · 开源抗审查，唯一可自查代码与授权 |
 | 08 | [苏菲家宽](airport-reviews/2026-09-学生党机场对比/08-苏菲家宽.md) | 另册 · 真住宅 IP，20 人拼一辆车 |
-| 09 | [iKuuu VPN](airport-reviews/2026-09-学生党机场对比/09-iKuuu-VPN.md) | 待实测 · 公开文档与注册入口 |
-| 10 | [MESL](airport-reviews/2026-09-学生党机场对比/10-MESL.md) | 待实测 · 公开套餐与注册入口 |
+| 09 | [iKuuu VPN](airport-reviews/2026-09-学生党机场对比/09-iKuuu-VPN.md) | 待实测 · 日本免费节点、VIP 日包与月付 |
+| 10 | [MESL](airport-reviews/2026-09-学生党机场对比/10-MESL.md) | 待实测 · 多端官方 App、Apple TV 与 OpenWrt |
 
 ## 约定
 
