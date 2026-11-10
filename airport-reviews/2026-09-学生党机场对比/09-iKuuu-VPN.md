@@ -14,6 +14,4 @@ iKuuu 文档中心列出的官网入口为 `ikuuu.top`，并提供 Windows、And
 
 [官方网址](https://ikuuu.top/auth/register?code=ZW0T)
 
-**利益相关** · 这是邀请注册链接，符合推广条件时博主可能获得返佣。
-
 [返回总览与横向对比](README.md)

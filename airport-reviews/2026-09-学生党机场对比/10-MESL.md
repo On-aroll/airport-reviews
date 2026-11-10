@@ -21,6 +21,4 @@
 
 [官方网址](https://getmesl.com/#/register?code=wCKFzQ5N)
 
-**利益相关** · 这是邀请注册链接，符合推广条件时博主可能获得返佣。
-
 [返回总览与横向对比](README.md)
