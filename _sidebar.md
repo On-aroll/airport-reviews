@@ -11,3 +11,5 @@
 - [06 其余八家](airport-reviews/2026-09-学生党机场对比/06-其余八家.md)
 - [07 迷雾通](airport-reviews/2026-09-学生党机场对比/07-迷雾通.md)
 - [08 苏菲家宽](airport-reviews/2026-09-学生党机场对比/08-苏菲家宽.md)
+- [09 iKuuu VPN](airport-reviews/2026-09-学生党机场对比/09-iKuuu-VPN.md)
+- [10 MESL](airport-reviews/2026-09-学生党机场对比/10-MESL.md)

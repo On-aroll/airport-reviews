@@ -7,7 +7,7 @@
 ### [在线阅读（网页版）](https://on-aroll.github.io/airport-reviews/)
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-2E6E8E)](LICENSE)
-[![文章 9 篇](https://img.shields.io/badge/文章-9%20篇-E8612C)](#系列)
+[![文章 11 篇](https://img.shields.io/badge/文章-11%20篇-E8612C)](#系列)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 | 系列 | 时间 | 篇数 | 说明 |
 | --- | --- | --- | --- |
-| [学生党机场对比](airport-reviews/2026-09-学生党机场对比/README.md) | 2026 年 9 月 | 9 | 6 家机场详评 + 7 家备选池 + 2 篇另册；含打分口径、机制解释、避坑清单与 30 分钟自测法 |
+| [学生党机场对比](airport-reviews/2026-09-学生党机场对比/README.md) | 2026 年 9 月，11 月补录 | 11 | 6 家机场详评 + 7 家备选池 + 2 篇另册 + 2 篇待实测补录，含打分口径、机制解释、避坑清单与 30 分钟自测法 |
 
 ### 学生党机场对比 · 篇目
 
@@ -36,6 +36,8 @@
 | 06 | [其余八家](airport-reviews/2026-09-学生党机场对比/06-其余八家.md) | **66** · 精灵学院（全表第一）+ 七家备选 |
 | 07 | [迷雾通](airport-reviews/2026-09-学生党机场对比/07-迷雾通.md) | 另册 · 开源抗审查，唯一可自查代码与授权 |
 | 08 | [苏菲家宽](airport-reviews/2026-09-学生党机场对比/08-苏菲家宽.md) | 另册 · 真住宅 IP，20 人拼一辆车 |
+| 09 | [iKuuu VPN](airport-reviews/2026-09-学生党机场对比/09-iKuuu-VPN.md) | 待实测 · 公开文档与注册入口 |
+| 10 | [MESL](airport-reviews/2026-09-学生党机场对比/10-MESL.md) | 待实测 · 公开套餐与注册入口 |
 
 ## 约定
 
